@@ -8,3 +8,5 @@
 | 4  | [Such great heights](https://www.youtube.com/watch?v=0wrsZog8qXg) | The Postal Service  | DAM  | AOO |
 | 5  | [I Don't Wanna Miss a Thing](https://www.youtube.com/watch?v=ujMxXOHJloI) | Aerosmith | DAW  | GGP |
 | 6  | [I Don't Wanna Miss a Thing](https://www.youtube.com/watch?v=ujMxXOHJloI) | Aerosmith | DAW  | BGP |
+| 7  | [Moonlight Shadow](https://www.youtube.com/watch?v=ujMxXOHJloI) | Aerosmith | DAW  | GGP |
+
