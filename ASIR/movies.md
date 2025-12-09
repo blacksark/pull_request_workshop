@@ -2,5 +2,5 @@
 
 |    | Película/Serie |  Iniciales |
 | :- | ------- |  :---------: |
-| 1 | 007 |  JGG |
+| 1 | Aladdin |  JGG |
 
